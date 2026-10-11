@@ -10,6 +10,7 @@ I enjoy building practical web applications and learning by turning ideas into w
 
 [![GitHub](https://img.shields.io/badge/GitHub-debjoitee-181717?style=for-the-badge&logo=github)](https://github.com/debjoitee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjoitee-biswas-09763924a)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debjoitee23@gmail.com)
 [![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdebjoitee&query=%24.public_repos&label=Public%20Repos&logo=github&logoColor=white&style=for-the-badge&color=181717)](https://github.com/debjoitee?tab=repositories)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=debjoitee&label=Profile%20Views&color=6C63FF&style=for-the-badge)
@@ -129,6 +130,7 @@ A repository for programming practice and data-structure-and-algorithm problem s
 
 - **GitHub:** [github.com/debjoitee](https://github.com/debjoitee)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/debjoitee-biswas-09763924a)
+- **Email:** [debjoitee23@gmail.com](mailto:debjoitee23@gmail.com)
 
 <p align="center">
   <i>Building consistently, learning continuously, and improving one project at a time. 🚀</i>
