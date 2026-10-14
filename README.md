@@ -13,7 +13,7 @@ I enjoy building practical web applications and learning by turning ideas into w
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debjoitee23@gmail.com)
 [![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdebjoitee&query=%24.public_repos&label=Public%20Repos&logo=github&logoColor=white&style=for-the-badge&color=181717)](https://github.com/debjoitee?tab=repositories)
 
-![Profile Views](![Profile Views](https://komarev.com/ghpvc/?username=debjoitee&style=for-the-badge&color=6C63FF))
+![Profile Views](https://komarev.com/ghpvc/?username=debjoitee&style=flat-square)
 
 </div>
 
