@@ -99,8 +99,7 @@ React JavaScript Maps Geolocation
 <p align="justify">A bicycle-sharing web project exploring user-facing workflows for discovering and accessing shared bicycles. Visit the deployed frontend and consult the repository documentation for details about implemented functionality and backend integrations.</p>
 
 <a href="https://pedalnest-frontend.vercel.app/dashboard"><img src="https://img.shields.io/badge/OPEN%20FRONTEND-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Open PedalNest frontend" /></a>
-5. 🧠 DSA & LeetCode Practice
-<p align="justify">A repository for programming practice and data-structure-and-algorithm problem solving.</p>
+
 
 <a href="https://github.com/debjoitee/DSA-Leetcode"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=flat-square&logo=github&logoColor=white" alt="View DSA and LeetCode repository" /></a>
 <p align="right"><a href="https://github.com/debjoitee?tab=repositories">Explore all repositories →</a></p>
