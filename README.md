@@ -6,13 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Graduate;Building+useful+web+applications;Learning+by+building%2C+testing+%26+improving;Java+%7C+JavaScript+%7C+React+%7C+Node.js" alt="Animated introduction" />
 
-
 <a href="https://github.com/debjoitee?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 <a href="https://www.linkedin.com/in/debjoitee-biswas-09763924a"><img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:debjoitee23@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Debjoitee" /></a>
 </div>
 
-<h1 align="center"><img src="./assets/headings/about-me.svg" alt="About Me" width="100%" /></h1>
+<h1 align="center"><strong>About Me</strong></h1>
 
 <img align="right" width="190" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Animated developer at a laptop" />
 
@@ -25,7 +24,7 @@ I'm a Computer Science and Engineering graduate from India, focused on growing a
 I believe good software starts with understanding the problem, making thoughtful engineering decisions, and improving the solution through testing and iteration.
 <br clear="right" />
 
-<h1 align="center"><img src="./assets/headings/tech-stack.svg" alt="Tech Stack" width="100%" /></h1>
+<h1 align="center"><strong>Tech Stack</strong></h1>
 
 <div align="center">
 
@@ -65,7 +64,7 @@ I believe good software starts with understanding the problem, making thoughtful
 </div>
 
 <sub>Icons represent technologies I work with or explore; they are not claims of expert-level proficiency.</sub>
-<h1 align="center"><img src="./assets/headings/featured-projects.svg" alt="Featured Projects" width="100%" /></h1>
+<h1 align="center"><strong>Featured Projects</strong></h1>
 
 🗺️ Bangaon Durga Puja Map Guide 2026
 A community-focused, mobile-first guide to finding Durga Puja pandals in Bangaon, West Bengal.
@@ -92,7 +91,7 @@ A repository for programming practice and data-structure-and-algorithm problem s
 <a href="https://github.com/debjoitee/DSA-Leetcode"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=flat-square&logo=github&logoColor=white" alt="View DSA and LeetCode repository" /></a>
 <p align="right"><a href="https://github.com/debjoitee?tab=repositories">Explore all repositories →</a></p>
 
-<h1 align="center"><img src="./assets/headings/github-overview.svg" alt="GitHub Overview" width="100%" /></h1>
+<h1 align="center"><strong>GitHub Overview</strong></h1>
 
 <div align="center">
 
@@ -102,7 +101,7 @@ A repository for programming practice and data-structure-and-algorithm problem s
 </div>
 
 <sub>These cards depend on a third-party service and may occasionally be unavailable. Language distribution reflects repository contents, not overall proficiency.</sub>
-<h1 align="center"><img src="./assets/headings/lets-connect.svg" alt="Let's Connect" width="100%" /></h1>
+<h1 align="center"><strong>Let's Connect</strong></h1>
 
 I'm interested in entry-level software development opportunities, collaborating on useful applications, and learning from real engineering challenges.
 <div align="center">
