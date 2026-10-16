@@ -66,27 +66,31 @@ I believe good software starts with understanding the problem, making thoughtful
 <sub>Icons represent technologies I work with or explore; they are not claims of expert-level proficiency.</sub>
 <h1 align="center"><strong>Featured Projects</strong></h1>
 
-🗺️ Bangaon Durga Puja Map Guide 2026
+1. 🗺️ Bangaon Durga Puja Map Guide 2026
 A community-focused, mobile-first guide to finding Durga Puja pandals in Bangaon, West Bengal.
 Search local pandals, explore locations on an interactive map, and use supported location and navigation features to plan visits.
 React JavaScript Maps Geolocation
 <a href="https://github.com/debjoitee/Durga_Pujo_Map_Guide_for_BANGAON_2026"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white" alt="View source code" /></a>
 <a href="https://durga-pujo-map-guide-for-bangaon-2026.pages.dev/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0891B2?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Open live demo" /></a>
 <sub>Independent community project. Pandal details and locations should be locally verified; this is not an official government or police website.</sub>
-🛒 Builder Store
+
+2. 🛒 Builder Store
 An e-commerce-oriented web application. Explore the live interface and source code to review the implemented shopping experience, UI structure, and technology choices.
 <a href="https://github.com/debjoitee/builder-store-"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white" alt="View source code" /></a>
 <a href="https://builder-store-jade.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Open live demo" /></a>
-📈 Zerodha-Inspired Trading UI
+
+3. 📈 Zerodha-Inspired Trading UI
 An independent educational project exploring the layout and interface patterns of a stock-brokerage website, with a landing page and a separate dashboard.
 <a href="https://github.com/debjoitee/zerodha-clone"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=flat-square&logo=github&logoColor=white" alt="View source code" /></a>
 <a href="https://verdant-truffle-145170.netlify.app/"><img src="https://img.shields.io/badge/LANDING%20PAGE-0891B2?style=flat-square&logo=netlify&logoColor=white" alt="Open landing page" /></a>
 <a href="https://zerodha-dashboard-app.netlify.app/"><img src="https://img.shields.io/badge/DASHBOARD-334155?style=flat-square&logo=netlify&logoColor=white" alt="Open dashboard" /></a>
 <sub>Independent UI project. Not an official Zerodha product or a live brokerage service.</sub>
-🚲 PedalNest — Bicycle-Sharing Platform
+
+4. 🚲 PedalNest — Bicycle-Sharing Platform
 A bicycle-sharing web project exploring user-facing workflows for discovering and accessing shared bicycles. Visit the deployed frontend and consult the repository documentation for details about implemented functionality and backend integrations.
 <a href="https://pedalnest-frontend.vercel.app/dashboard"><img src="https://img.shields.io/badge/OPEN%20FRONTEND-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Open PedalNest frontend" /></a>
-🧠 DSA & LeetCode Practice
+
+5. 🧠 DSA & LeetCode Practice
 A repository for programming practice and data-structure-and-algorithm problem solving.
 <a href="https://github.com/debjoitee/DSA-Leetcode"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=flat-square&logo=github&logoColor=white" alt="View DSA and LeetCode repository" /></a>
 <p align="right"><a href="https://github.com/debjoitee?tab=repositories">Explore all repositories →</a></p>
