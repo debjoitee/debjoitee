@@ -12,7 +12,8 @@
 <a href="mailto:debjoitee23@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Debjoitee" /></a>
 </div>
 
-01 — About Me
+<h1 align="center"><img src="./assets/headings/about-me.svg" alt="About Me" width="100%" /></h1>
+
 <img align="right" width="190" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Animated developer at a laptop" />
 
 I'm a Computer Science and Engineering graduate from India, focused on growing as a full-stack developer by building practical applications and strengthening my software engineering fundamentals.
@@ -24,29 +25,48 @@ I'm a Computer Science and Engineering graduate from India, focused on growing a
 I believe good software starts with understanding the problem, making thoughtful engineering decisions, and improving the solution through testing and iteration.
 <br clear="right" />
 
-02 — Tech Stack
+<h1 align="center"><img src="./assets/headings/tech-stack.svg" alt="Tech Stack" width="100%" /></h1>
+
+<div align="center">
+
 <p>
-  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/LANGUAGES-172554?style=for-the-badge&logo=java&logoColor=FFD166" alt="Languages" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Java and JavaScript" />
 </p>
 
 <p>
-  <strong>Frontend</strong><br/>
+  <img src="https://img.shields.io/badge/FRONTEND-172554?style=for-the-badge&logo=react&logoColor=FFD166" alt="Frontend" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="HTML, CSS, React, and Bootstrap" />
 </p>
 
 <p>
-  <strong>Backend & Databases</strong><br/>
+  <img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASES-172554?style=for-the-badge&logo=nodedotjs&logoColor=FFD166" alt="Backend and databases" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Node.js, Express, MySQL, and MongoDB" />
 </p>
 
 <p>
-  <strong>Tools</strong><br/>
+  <img src="https://img.shields.io/badge/DEVELOPMENT%20TOOLS-172554?style=for-the-badge&logo=git&logoColor=FFD166" alt="Development tools" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, and Postman" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/PRODUCTIVITY%20%26%20DESIGN-172554?style=for-the-badge&logo=figma&logoColor=FFD166" alt="Productivity and design tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
+</p>
+
+</div>
+
 <sub>Icons represent technologies I work with or explore; they are not claims of expert-level proficiency.</sub>
-03 — Featured Projects
+<h1 align="center"><img src="./assets/headings/featured-projects.svg" alt="Featured Projects" width="100%" /></h1>
+
 🗺️ Bangaon Durga Puja Map Guide 2026
 A community-focused, mobile-first guide to finding Durga Puja pandals in Bangaon, West Bengal.
 Search local pandals, explore locations on an interactive map, and use supported location and navigation features to plan visits.
@@ -72,7 +92,8 @@ A repository for programming practice and data-structure-and-algorithm problem s
 <a href="https://github.com/debjoitee/DSA-Leetcode"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=flat-square&logo=github&logoColor=white" alt="View DSA and LeetCode repository" /></a>
 <p align="right"><a href="https://github.com/debjoitee?tab=repositories">Explore all repositories →</a></p>
 
-04 — GitHub Overview
+<h1 align="center"><img src="./assets/headings/github-overview.svg" alt="GitHub Overview" width="100%" /></h1>
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=debjoitee&show_icons=true&hide_border=true&theme=transparent&title_color=0891B2&icon_color=0891B2&text_color=94A3B8&rank_icon=github" alt="GitHub profile statistics" />
@@ -81,7 +102,8 @@ A repository for programming practice and data-structure-and-algorithm problem s
 </div>
 
 <sub>These cards depend on a third-party service and may occasionally be unavailable. Language distribution reflects repository contents, not overall proficiency.</sub>
-05 — Let's Connect
+<h1 align="center"><img src="./assets/headings/lets-connect.svg" alt="Let's Connect" width="100%" /></h1>
+
 I'm interested in entry-level software development opportunities, collaborating on useful applications, and learning from real engineering challenges.
 <div align="center">
 
