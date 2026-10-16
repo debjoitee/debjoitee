@@ -15,13 +15,18 @@
 
 <img align="right" width="190" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Animated developer at a laptop" />
 
-I'm a Computer Science and Engineering graduate from India, focused on growing as a full-stack developer by building practical applications and strengthening my software engineering fundamentals.
-- Focus: Full-stack web development, APIs, databases, and problem-solving.
-- Languages: Java, JavaScript, and SQL.
-- Core stack: React, Node.js, Express.js, and MySQL.
-- Currently improving: Data structures, backend design, debugging, and maintainable code.
-- Career goal: Entry-level Software Developer / Full-Stack Developer opportunities.
-I believe good software starts with understanding the problem, making thoughtful engineering decisions, and improving the solution through testing and iteration.
+<p align="justify">I'm a Computer Science and Engineering graduate from India, focused on growing as a full-stack developer by building practical applications and strengthening my software engineering fundamentals.</p>
+
+<ul align="justify">
+  <li><strong>Focus:</strong> Full-stack web development, APIs, databases, and problem-solving.</li>
+  <li><strong>Languages:</strong> Java, JavaScript, and SQL.</li>
+  <li><strong>Core stack:</strong> React, Node.js, Express.js, and MySQL.</li>
+  <li><strong>Currently improving:</strong> Data structures, backend design, debugging, and maintainable code.</li>
+  <li><strong>Career goal:</strong> Entry-level Software Developer / Full-Stack Developer opportunities.</li>
+</ul>
+
+<p align="justify">I believe good software starts with understanding the problem, making thoughtful engineering decisions, and improving the solution through testing and iteration.</p>
+
 <br clear="right" />
 
 <h1 align="center"><strong>Tech Stack</strong></h1>
@@ -63,35 +68,40 @@ I believe good software starts with understanding the problem, making thoughtful
 
 </div>
 
-<sub>Icons represent technologies I work with or explore; they are not claims of expert-level proficiency.</sub>
+<p align="justify"><sub>Icons represent technologies I work with or explore; they are not claims of expert-level proficiency.</sub></p>
+
 <h1 align="center"><strong>Featured Projects</strong></h1>
 
 1. 🗺️ Bangaon Durga Puja Map Guide 2026
-A community-focused, mobile-first guide to finding Durga Puja pandals in Bangaon, West Bengal.
-Search local pandals, explore locations on an interactive map, and use supported location and navigation features to plan visits.
+<p align="justify"><strong>A community-focused, mobile-first guide to finding Durga Puja pandals in Bangaon, West Bengal.</strong></p>
+
+<p align="justify">Search local pandals, explore locations on an interactive map, and use supported location and navigation features to plan visits.</p>
+
 React JavaScript Maps Geolocation
 <a href="https://github.com/debjoitee/Durga_Pujo_Map_Guide_for_BANGAON_2026"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white" alt="View source code" /></a>
 <a href="https://durga-pujo-map-guide-for-bangaon-2026.pages.dev/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0891B2?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Open live demo" /></a>
-<sub>Independent community project. Pandal details and locations should be locally verified; this is not an official government or police website.</sub>
+<p align="justify"><sub>Independent community project. Pandal details and locations should be locally verified; this is not an official government or police website.</sub></p>
 
 2. 🛒 Builder Store
-An e-commerce-oriented web application. Explore the live interface and source code to review the implemented shopping experience, UI structure, and technology choices.
+<p align="justify"><strong>An e-commerce-oriented web application.</strong> Explore the live interface and source code to review the implemented shopping experience, UI structure, and technology choices.</p>
+
 <a href="https://github.com/debjoitee/builder-store-"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white" alt="View source code" /></a>
 <a href="https://builder-store-jade.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Open live demo" /></a>
-
 3. 📈 Zerodha-Inspired Trading UI
-An independent educational project exploring the layout and interface patterns of a stock-brokerage website, with a landing page and a separate dashboard.
+<p align="justify">An independent educational project exploring the layout and interface patterns of a stock-brokerage website, with a landing page and a separate dashboard.</p>
+
 <a href="https://github.com/debjoitee/zerodha-clone"><img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=flat-square&logo=github&logoColor=white" alt="View source code" /></a>
 <a href="https://verdant-truffle-145170.netlify.app/"><img src="https://img.shields.io/badge/LANDING%20PAGE-0891B2?style=flat-square&logo=netlify&logoColor=white" alt="Open landing page" /></a>
 <a href="https://zerodha-dashboard-app.netlify.app/"><img src="https://img.shields.io/badge/DASHBOARD-334155?style=flat-square&logo=netlify&logoColor=white" alt="Open dashboard" /></a>
-<sub>Independent UI project. Not an official Zerodha product or a live brokerage service.</sub>
+<p align="justify"><sub>Independent UI project. Not an official Zerodha product or a live brokerage service.</sub></p>
 
 4. 🚲 PedalNest — Bicycle-Sharing Platform
-A bicycle-sharing web project exploring user-facing workflows for discovering and accessing shared bicycles. Visit the deployed frontend and consult the repository documentation for details about implemented functionality and backend integrations.
-<a href="https://pedalnest-frontend.vercel.app/dashboard"><img src="https://img.shields.io/badge/OPEN%20FRONTEND-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Open PedalNest frontend" /></a>
+<p align="justify">A bicycle-sharing web project exploring user-facing workflows for discovering and accessing shared bicycles. Visit the deployed frontend and consult the repository documentation for details about implemented functionality and backend integrations.</p>
 
+<a href="https://pedalnest-frontend.vercel.app/dashboard"><img src="https://img.shields.io/badge/OPEN%20FRONTEND-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Open PedalNest frontend" /></a>
 5. 🧠 DSA & LeetCode Practice
-A repository for programming practice and data-structure-and-algorithm problem solving.
+<p align="justify">A repository for programming practice and data-structure-and-algorithm problem solving.</p>
+
 <a href="https://github.com/debjoitee/DSA-Leetcode"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=flat-square&logo=github&logoColor=white" alt="View DSA and LeetCode repository" /></a>
 <p align="right"><a href="https://github.com/debjoitee?tab=repositories">Explore all repositories →</a></p>
 
@@ -104,10 +114,12 @@ A repository for programming practice and data-structure-and-algorithm problem s
 
 </div>
 
-<sub>These cards depend on a third-party service and may occasionally be unavailable. Language distribution reflects repository contents, not overall proficiency.</sub>
+<p align="justify"><sub>These cards depend on a third-party service and may occasionally be unavailable. Language distribution reflects repository contents, not overall proficiency.</sub></p>
+
 <h1 align="center"><strong>Let's Connect</strong></h1>
 
-I'm interested in entry-level software development opportunities, collaborating on useful applications, and learning from real engineering challenges.
+<p align="justify">I'm interested in entry-level software development opportunities, collaborating on useful applications, and learning from real engineering challenges.</p>
+
 <div align="center">
 
 <a href="https://github.com/debjoitee"><img src="https://img.shields.io/badge/GitHub-debjoitee-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -116,7 +128,7 @@ I'm interested in entry-level software development opportunities, collaborating 
 
 
 
-Build with purpose. Learn through implementation. Improve continuously.
+<strong>Build with purpose. Learn through implementation. Improve continuously.</strong>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0891B2,100:0B1220&section=footer" alt="Cyan and navy footer wave" />
 
 </div>
